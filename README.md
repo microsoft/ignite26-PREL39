@@ -67,9 +67,10 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Microsoft Copilot
+- Microsoft Copilot Cowork
+- Microsoft Purview
+- Microsoft SharePoint advanced management included in Microsoft Copilot premium
 
 ### 📚 Continue your learning
 
@@ -77,29 +78,14 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
+| **[Presentation](https://aka.ms/ignite26-next-steps)** | Deck used during the session |
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
 
-### 🌟 Microsoft Learn MCP Server
 
-<!-- Remove this section if the Microsoft Learn MCP Server is not relevant to the session. -->
-
-The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the topics in this session.
-
-**GitHub Copilot CLI** — Install with:
-
-```shell
-copilot plugin install microsoftdocs/mcp
-```
-
-**VS Code** — One-click install:  
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp).
-
-### 👥 Content owners
+### 👥 Speakers
 
 <!-- TODO: Add yourself as a content owner
 1. Change the src in the image tag to {your github url}.png
@@ -108,9 +94,9 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
+    <td align="center"><a href="http://github.com/sophieke815">
+        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="Sophie Ke"/><br />
+        <sub><b>Sophie Ke</b></sub></a><br />
             <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
     </td>
 </tr></table>
