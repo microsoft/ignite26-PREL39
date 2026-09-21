@@ -37,9 +37,9 @@ If you're learning at your own pace:
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Remediate oversharing
+- Setup guardrails
+- Meet regulations
 
 ### 💻 Technologies used
 
