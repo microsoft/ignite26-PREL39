@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥PREL39: Ready, Secure, Govern: Microsoft 365 Copilot & Cowork Workshop
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Move from planning to deployment in this hands-on Microsoft 365 Copilot and Copilot Cowork workshop. Designed for security, compliance, and IT practitioners, this session provides practical guidance for protecting sensitive data, reducing oversharing risks, establishing governance controls, meeting compliance requirements, and gaining visibility into AI usage. Leave with proven implementation patterns and next steps to securely scale AI across your organization.
 
 ### 🚀 Getting started
 
