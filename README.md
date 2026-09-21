@@ -13,26 +13,6 @@
 
 Move from planning to deployment in this hands-on Microsoft 365 Copilot and Copilot Cowork workshop. Designed for security, compliance, and IT practitioners, this session provides practical guidance for protecting sensitive data, reducing oversharing risks, establishing governance controls, meeting compliance requirements, and gaining visibility into AI usage. Leave with proven implementation patterns and next steps to securely scale AI across your organization.
 
-### 🚀 Getting started
-
-#### In a guided session
-
-If you're following along during a live session:
-
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
-
-#### On your own
-
-If you're learning at your own pace:
-
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
-
 ### 🎯 Learning outcomes
 
 By the end of this session, you will be able to:
