@@ -87,19 +87,14 @@ Pick your next step based on your learning style:
 
 ### 👥 Speakers
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="http://github.com/sophieke815">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="Sophie Ke"/><br />
-        <sub><b>Sophie Ke</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
-    </td>
-</tr></table>
+| Speakers             | 
+|-------------------|
+| Sophie Ke    | 
+| Erica Toelle       | 
+| Jon Lua | 
+| Leo Ramirez  | 
+| TBD   |
+| TBD   | 
 
 ### ⚖️ Trademarks
 
