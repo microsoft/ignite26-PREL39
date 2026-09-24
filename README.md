@@ -41,16 +41,16 @@ Pick your next step based on your learning style:
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
 
 
-### 👥 Speakers
+### 👥 Speakers & Proctors
 
 | Speakers             | 
 |-------------------|
 | Sophie Ke    | 
 | Erica Toelle       | 
+| Nathalia Broges| 
 | Jon Lua | 
-| Leo Ramirez  | 
-| TBD   |
-| TBD   | 
+| Leo Ramirez   |
+| Martina Grom   | 
 
 ### ⚖️ Trademarks
 
