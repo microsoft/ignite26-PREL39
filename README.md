@@ -48,6 +48,7 @@ Pick your next step based on your learning style:
 | Sophie Ke    | 
 | Erica Toelle       | 
 | Nathalia Broges| 
+| Nadia Fortini |
 | Jon Lua | 
 | Leo Ramirez   |
 | Martina Grom   | 
