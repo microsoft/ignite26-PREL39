@@ -8,7 +8,7 @@
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥PREL39: Ready, Secure, Govern: Microsoft 365 Copilot & Cowork Workshop
+## 🔥PREL39: Ready, Secure, Govern: Microsoft Copilot & Cowork Workshop
 ### Session description
 
 Move from planning to deployment in this hands-on Microsoft 365 Copilot and Copilot Cowork workshop. Designed for security, compliance, and IT practitioners, this session provides practical guidance for protecting sensitive data, reducing oversharing risks, establishing governance controls, meeting compliance requirements, and gaining visibility into AI usage. Leave with proven implementation patterns and next steps to securely scale AI across your organization.
