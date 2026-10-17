@@ -51,6 +51,8 @@ Pick your next step based on your learning style:
 | Nadia Fortini |
 | Jon Lua | 
 | Leo Ramirez   |
+| Eric Towery |
+| Jocelyn Panchal |
 | Martina Grom   | 
 
 ### ⚖️ Trademarks
