@@ -34,7 +34,7 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
-| **[Presentation](https://aka.ms/ignite26-next-steps)** | Deck used during the session |
+| **[Presentation](https://microsoft.sharepoint.com/:p:/t/EventSessionUploads/cQrOYV7-QttiRaixNmkeFtOqEgUCzH_dPq4jHu7XrKVba0f60Q)** | Deck used during the session |
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |
