@@ -23,10 +23,10 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Microsoft Copilot
-- Microsoft Copilot Cowork
-- Microsoft Purview
-- Microsoft SharePoint advanced management included in Microsoft Copilot premium
+- [Microsoft Copilot](https://learn.microsoft.com/copilot/plan/copilot-overview?tabs=microsoft-copilot-chat-basic%2Cmicrosoft-copilot-chat-basic-training)
+- [Microsoft Copilot Cowork](https://learn.microsoft.com/copilot/cowork/)
+- [Microsoft Purview](https://learn.microsoft.com/purview/)
+- [Microsoft SharePoint Advanced Management](https://learn.microsoft.com/en-us/sharepoint/advanced-management), included in Microsoft Copilot license
 
 ### 📚 Continue your learning
 
