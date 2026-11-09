@@ -8,10 +8,10 @@
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥PREL39: Ready, Secure, Govern: Microsoft Copilot & Cowork Workshop
+## 🔥PREL39: Ready, Secure, Govern: Microsoft Copilot Chat & Cowork Workshop
 ### Session description
 
-Move from planning to deployment in this hands-on Microsoft 365 Copilot and Copilot Cowork workshop. Designed for security, compliance, and IT practitioners, this session provides practical guidance for protecting sensitive data, reducing oversharing risks, establishing governance controls, meeting compliance requirements, and gaining visibility into AI usage. Leave with proven implementation patterns and next steps to securely scale AI across your organization.
+Move from planning to deployment in this hands-on Microsoft 365 Copilot Chat and Copilot Cowork workshop. Designed for security, compliance, and IT practitioners, this session provides practical guidance for protecting sensitive data, reducing oversharing risks, establishing governance controls, meeting compliance requirements, and gaining visibility into AI usage. Leave with proven implementation patterns and next steps to securely scale AI across your organization.
 
 ### 🎯 Learning outcomes
 
@@ -35,6 +35,7 @@ Pick your next step based on your learning style:
 | Resource | What you'll get |
 |----------|-----------------|
 | **[Presentation](https://microsoft.sharepoint.com/:p:/t/EventSessionUploads/cQrOYV7-QttiRaixNmkeFtOqEgUCzH_dPq4jHu7XrKVba0f60Q)** | Deck used during the session |
+| **[Secure and Govern Microsoft Copilot blueprint](https://aka.ms/Copilot/SecureGovern)** | Downloadable deployment blueprint|
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |
@@ -46,7 +47,6 @@ Pick your next step based on your learning style:
 | Speakers             | 
 |-------------------|
 | Sophie Ke    | 
-| Erica Toelle       | 
 | Nathalia Broges| 
 | Nadia Fortini |
 | Jon Lua | 
@@ -54,6 +54,7 @@ Pick your next step based on your learning style:
 | Eric Towery |
 | Jocelyn Panchal |
 | Martina Grom   | 
+| Erica Toelle  | 
 
 ### ⚖️ Trademarks
 
