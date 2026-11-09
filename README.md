@@ -44,17 +44,11 @@ Pick your next step based on your learning style:
 
 ### 👥 Speakers & Proctors
 
-| Speakers             | 
-|-------------------|
-| Sophie Ke    | 
-| Nathalia Broges| 
-| Nadia Fortini |
-| Jon Lua | 
-| Leo Ramirez   |
-| Eric Towery |
-| Jocelyn Panchal |
-| Martina Grom   | 
-| Erica Toelle  | 
+- Copilot: Sophie Ke
+- Purview: Nathalia Broges, Nadia Fortini, Leo Ramirez, Eric Towery
+- SharePoint Advanced Management: Jon Lua, Dave Minasyan
+- A365: Jocelyn Panchal, Erica Toelle
+- M365 and Foundry MVP: Martina Grom
 
 ### ⚖️ Trademarks
 
