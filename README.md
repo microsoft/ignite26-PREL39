@@ -47,8 +47,8 @@ Pick your next step based on your learning style:
 - Copilot: Sophie Ke
 - Purview: Nathalia Broges, Nadia Fortini, Leo Ramirez, Eric Towery
 - SharePoint Advanced Management: Jon Lua, Dave Minasyan
-- A365: Jocelyn Panchal, Erica Toelle
-- M365 and Foundry MVP: Martina Grom
+- Agent 365: Jocelyn Panchal, Erica Toelle
+- Microsoft 365 and Foundry MVP: Martina Grom
 
 ### ⚖️ Trademarks
 
