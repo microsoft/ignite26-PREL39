@@ -34,7 +34,7 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
-| **[Presentation](https://microsoft.sharepoint.com/:p:/t/EventSessionUploads/cQrOYV7-QttiRaixNmkeFtOqEgUCzH_dPq4jHu7XrKVba0f60Q)** | Deck used during the session |
+| **[Presentation](https://github.com/microsoft/ignite26-PREL39/blob/main/docs/PREL39_Ignite2026.pptx)** | Deck used during the session |
 | **[Secure and Govern Microsoft Copilot blueprint](https://aka.ms/Copilot/SecureGovern)** | Downloadable deployment blueprint|
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
